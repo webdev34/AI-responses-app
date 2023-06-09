@@ -1,0 +1,17 @@
+{
+  "results": [],
+  "sentiments": [
+    {
+      "sentiment": "Positive",
+      "explanation": "The input text contains a high proportion of positive words."
+    },
+    {
+      "sentiment": "Negative",
+      "explanation": "The input text contains a high proportion of negative words."
+    },
+    {
+      "sentiment": "Netural",
+      "explanation": "The input text contains a high proportion of mixed words."
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+.d-flex {
+    gap: 20px;
+}
+
+textarea {
+    width: 100%;
+}

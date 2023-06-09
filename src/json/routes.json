@@ -1,0 +1,5 @@
+{
+    "/results/*": "/results/$1",
+    "/sentiments/*": "/sentiments/$1"
+}
+
